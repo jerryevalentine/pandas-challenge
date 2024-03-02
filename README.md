@@ -33,16 +33,16 @@
 # School Summary #
 ### Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school. ###
 Include the following:
-	* School name
-	* School type
-	* Total students
-	* Total school budget
-	* Per student budget
-	* Average math score
-	* Average reading score
-	* % passing math (the percentage of students who passed math)
-	* % passing reading (the percentage of students who passed reading)
-	* % overall passing (the percentage of students who passed math AND reading)
+	* School name (Done)
+	* School type (Done)
+	* Total students (Done)
+	* Total school budget (Done)
+	* Per student budget (Done)
+	* Average math score (Done)
+	* Average reading score (Done)
+	* % passing math (the percentage of students who passed math) (Done)
+	* % passing reading (the percentage of students who passed reading) (Done)
+	* % overall passing (the percentage of students who passed math AND reading) (Done)
 
 # Highest-Performing Schools (by % Overall Passing) #
 	* Sort the schools by % Overall Passing in descending order and display the top 5 rows.
